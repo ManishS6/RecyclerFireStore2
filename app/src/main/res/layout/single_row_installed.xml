@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#dddddd"
+    android:layout_margin="10dp"
+    android:clipChildren="false"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/mRowUserName2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/pacifico"
+            android:text="User Name"
+            android:textColor="#000000"
+            android:textSize="23dp" />
+
+        <TextView
+            android:id="@+id/mRowUserStatus2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="User Status"
+            android:textSize="20dp"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/mRowDeleteButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/mybutton"
+        android:elevation="10dp"
+        android:text="Paynav"
+        android:textColor="#670067" />
+
+</LinearLayout>

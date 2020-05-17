@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerFireStore</string>
+    <string name="update">search</string>
+</resources>

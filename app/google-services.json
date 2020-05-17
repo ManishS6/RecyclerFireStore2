@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "38376649999",
+    "firebase_url": "https://recyclerviewproject-35ba3.firebaseio.com",
+    "project_id": "recyclerviewproject-35ba3",
+    "storage_bucket": "recyclerviewproject-35ba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38376649999:android:7428d570654f039328ba7a",
+        "android_client_info": {
+          "package_name": "com.guidoapps.recyclerfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38376649999-k27bnbhdhg4mjk6imghso169atm1tol0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ3EeOiMK6f0lzszAtzlub3D_W3Vz5K9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38376649999-k27bnbhdhg4mjk6imghso169atm1tol0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
